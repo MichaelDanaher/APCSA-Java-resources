@@ -10,10 +10,10 @@
        - https://introcs.cs.princeton.edu/java/40algorithms/
 
   ## Programs
-    https://introcs.cs.princeton.edu/java/code/
+   - https://introcs.cs.princeton.edu/java/code/
 
   ## Example Data
-    https://introcs.cs.princeton.edu/java/data/
+   - https://introcs.cs.princeton.edu/java/data/
 
   ## Cheatsheet
-    https://introcs.cs.princeton.edu/java/11cheatsheet/
+   - https://introcs.cs.princeton.edu/java/11cheatsheet/
